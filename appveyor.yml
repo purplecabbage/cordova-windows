@@ -35,4 +35,4 @@ test_script:
   - node --version
   - npm --version
   - msbuild /version
-  - npm test
+  - npm test-e2e
